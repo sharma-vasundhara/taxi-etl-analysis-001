@@ -9,7 +9,8 @@ This project aims to analyze Uber data using the latest tools & technologies.
 
 ## Data Model
 The dataset was transformed into fact and dimension tables to facilitate analysis. 
-**The schema can be further improved by modifying dimension tables, and adding measures to the fact table 
+
+**The schema can be further improved by modifying dimension tables, and adding measures to the fact table* 
 ![](https://github.com/sharma-vasundhara/taxi-etl-analysis-001/blob/main/taxi-data-model.jpeg)
 
 ## Future Advancements
