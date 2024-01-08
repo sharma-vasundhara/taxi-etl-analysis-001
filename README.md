@@ -5,7 +5,7 @@
 This project aims to analyze Uber data using the latest tools & technologies. 
 
 ## ETL Architecture
-![](https://github.com/sharma-vasundhara/taxi-etl-analysis-001/blob/main/taxi-data-model.jpeg)
+![](https://github.com/sharma-vasundhara/taxi-etl-analysis-001/blob/main/architecture-diagram.jpeg)
 
 ## Data Model
 The dataset was transformed into fact and dimension tables to facilitate analysis. 
